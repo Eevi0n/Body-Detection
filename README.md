@@ -1,3 +1,3 @@
 # Body-Detection
 
-##Lets your camera detect your body
+Lets your camera detect your body
